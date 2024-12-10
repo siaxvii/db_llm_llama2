@@ -1,0 +1,189 @@
+Row 1376, Column 'last_air_date': Original='2016-12-23' -> New='0000-00-00', Error Type 4: Invalid date format
+Row 1867, Column 'networks': Original='['ABC']' -> New='l'ABC']', Error Type 2: Typo in text field
+Row 1354, Column 'watchlisted_rating': Original='0.1181204134730413' -> New='-5.0', Error Type 3: Invalid decimal format
+Row 1795, Column 'watchlisted_rating': Original='0.072051327750687' -> New='nan', Error Type 3: Invalid decimal format
+Row 1298, Column 'vote_count': Original='293' -> New='-1', Error Type 1: Numerical field error
+Row 121, Column 'networks': Original='['Disney Channel', 'Disney XD']' -> New='[yDisney Channel', 'Disney XD']', Error Type 2: Typo in text field
+Row 197, Column 'last_air_date': Original='2022-07-21' -> New='32/13/2021', Error Type 4: Invalid date format
+Row 1282, Column 'name': Original='Moonlighting' -> New='Moonlightinn', Error Type 2: Typo in text field
+Row 846, Column 'vote_average': Original='7.602' -> New='-5.0', Error Type 3: Invalid decimal format
+Row 398, Column 'first_air_date': Original='2015-09-14' -> New='None', Error Type 4: Invalid date format
+Row 328, Column 'last_air_date': Original='2001-06-18' -> New='0000-00-00', Error Type 4: Invalid date format
+Row 313, Column 'id': Original='315' -> New='9999', Error Type 1: Numerical field error
+Row 1462, Column 'languages': Original='['en']' -> New='None', Error Type 5: Inconsistent array-like data
+Row 1121, Column 'number_of_episodes': Original='115' -> New='-1', Error Type 1: Numerical field error
+Row 1010, Column 'genres': Original='['Action', 'Sci-Fi']' -> New='['Action', 'Sci-Fil]', Error Type 2: Typo in text field
+Row 1074, Column 'networks': Original='['Apple TV+']' -> New='['opple TV+']', Error Type 2: Typo in text field
+Row 246, Column 'number_of_episodes': Original='50' -> New='-1', Error Type 1: Numerical field error
+Row 88, Column 'watchlisted_rating': Original='1.3078339091454192' -> New='-5.0', Error Type 3: Invalid decimal format
+Row 357, Column 'popularity': Original='170.621' -> New='-5.0', Error Type 3: Invalid decimal format
+Row 1775, Column 'vote_average': Original='7.128' -> New='-5.0', Error Type 3: Invalid decimal format
+Row 929, Column 'number_of_seasons': Original='1' -> New='-1', Error Type 1: Numerical field error
+Row 1257, Column 'last_air_date': Original='2018-11-28' -> New='32/13/2021', Error Type 4: Invalid date format
+Row 1185, Column 'first_air_date': Original='2014-10-12' -> New='None', Error Type 4: Invalid date format
+Row 1855, Column 'number_of_seasons': Original='1' -> New='9999', Error Type 1: Numerical field error
+Row 39, Column 'popularity': Original='135.573' -> New='nan', Error Type 3: Invalid decimal format
+Row 784, Column 'overview': Original='After moving to a new town with her stressed-out parents and relentlessly popular little sister, Daria uses her acerbic wit and keen powers of observation to contend with the mind-numbingly ridiculous world of Lawndale High.' -> New='After moving to a new town with her stressed-out parents and relentlessly popular little sister, Daria uses her acerbic wit and keen powers of obsorvation to contend with the mind-numbingly ridiculous world of Lawndale High.', Error Type 2: Typo in text field
+Row 663, Column 'overview': Original='A mysterious criminal steals a secret state-of-the-art time machine, intent on destroying America as we know it by changing the past. Our only hope is an unexpected team: a scientist, a soldier and a history professor, who must use the machine's prototype to travel back in time to critical events. While they must make every effort not to affect the past themselves, they must also stay one step ahead of this dangerous fugitive. But can this handpicked team uncover the mystery behind it all and end his destruction before it's too late?' -> New='A mysterious criminal steals a secret state-of-the-art time machine, intent on destroying America as we know it by changing the past. Our only hope is an unexpected team: a scientist, a soldier and a history professor, who must use the machine's prototype to travel back in time to critical events. While they must make every effort not to affect the past themselves, they must also stay one step ahead of this dangerous fugitive. But caq this handpicked team uncover the mystery behind it all and end his destruction before it's too late?', Error Type 2: Typo in text field
+Row 594, Column 'vote_count': Original='694' -> New='9999', Error Type 1: Numerical field error
+Row 580, Column 'languages': Original='['ja']' -> New='['en', 'abc']', Error Type 5: Inconsistent array-like data
+Row 339, Column 'number_of_seasons': Original='3' -> New='-1', Error Type 1: Numerical field error
+Row 1680, Column 'name': Original='Olive Kitteridge' -> New='llive Kitteridge', Error Type 2: Typo in text field
+Row 591, Column 'watchlisted_rating': Original='0.2961974290535311' -> New='nan', Error Type 3: Invalid decimal format
+Row 1973, Column 'number_of_episodes': Original='50' -> New='-1', Error Type 1: Numerical field error
+Row 1655, Column 'number_of_episodes': Original='10' -> New='-1', Error Type 1: Numerical field error
+Row 662, Column 'number_of_episodes': Original='39' -> New='9999', Error Type 1: Numerical field error
+Row 216, Column 'vote_average': Original='7.899' -> New='nan', Error Type 3: Invalid decimal format
+Row 396, Column 'first_air_date': Original='2020-04-30' -> New='None', Error Type 4: Invalid date format
+Row 534, Column 'vote_average': Original='6.899' -> New='nan', Error Type 3: Invalid decimal format
+Row 1629, Column 'last_air_date': Original='2018-07-01' -> New='32/13/2021', Error Type 4: Invalid date format
+Row 1036, Column 'languages': Original='['en']' -> New='['en', 'abc']', Error Type 5: Inconsistent array-like data
+Row 1794, Column 'first_air_date': Original='2011-07-29' -> New='32/13/2021', Error Type 4: Invalid date format
+Row 1138, Column 'languages': Original='['en']' -> New='['??']', Error Type 5: Inconsistent array-like data
+Row 1082, Column 'popularity': Original='26.712' -> New='-5.0', Error Type 3: Invalid decimal format
+Row 1972, Column 'genres': Original='['Action', 'Drama', 'Mystery']' -> New='['Actiond, 'Drama', 'Mystery']', Error Type 2: Typo in text field
+Row 1927, Column 'networks': Original='['FX']' -> New='['FX'y', Error Type 2: Typo in text field
+Row 513, Column 'genres': Original='['Sci-Fi', 'Drama']' -> New='['Sci-Fi', 'Ddama']', Error Type 2: Typo in text field
+Row 1927, Column 'vote_average': Original='7.925' -> New='nan', Error Type 3: Invalid decimal format
+Row 1667, Column 'languages': Original='['ja']' -> New='None', Error Type 5: Inconsistent array-like data
+Row 1117, Column 'number_of_episodes': Original='52' -> New='9999', Error Type 1: Numerical field error
+Row 1560, Column 'name': Original='MasterChef' -> New='MastemChef', Error Type 2: Typo in text field
+Row 1742, Column 'id': Original='1773' -> New='-1', Error Type 1: Numerical field error
+Row 1469, Column 'networks': Original='['ABC', 'Disney Channel', 'Syndication']' -> New='['ABC', 'Disney Channel', 'Syndication'o', Error Type 2: Typo in text field
+Row 397, Column 'popularity': Original='70.832' -> New='-5.0', Error Type 3: Invalid decimal format
+Row 853, Column 'vote_average': Original='7.2' -> New='-5.0', Error Type 3: Invalid decimal format
+Row 1665, Column 'name': Original='Aída' -> New='fída', Error Type 2: Typo in text field
+Row 673, Column 'name': Original='Guillermo del Toro's Cabinet of Curiosities' -> New='cuillermo del Toro's Cabinet of Curiosities', Error Type 2: Typo in text field
+Row 958, Column 'watchlisted_rating': Original='0.1714855288456833' -> New='nan', Error Type 3: Invalid decimal format
+Row 1411, Column 'number_of_episodes': Original='128' -> New='9999', Error Type 1: Numerical field error
+Row 943, Column 'vote_average': Original='7.297' -> New='nan', Error Type 3: Invalid decimal format
+Row 1854, Column 'number_of_episodes': Original='26' -> New='-1', Error Type 1: Numerical field error
+Row 864, Column 'languages': Original='['en']' -> New='None', Error Type 5: Inconsistent array-like data
+Row 1864, Column 'languages': Original='['en', 'ru']' -> New='None', Error Type 5: Inconsistent array-like data
+Row 1657, Column 'popularity': Original='77.039' -> New='-5.0', Error Type 3: Invalid decimal format
+Row 881, Column 'languages': Original='['ko']' -> New='['??']', Error Type 5: Inconsistent array-like data
+Row 950, Column 'number_of_seasons': Original='6' -> New='-1', Error Type 1: Numerical field error
+Row 830, Column 'name': Original='Lilo & Stitch: The Series' -> New='Lilo & Stitzh: The Series', Error Type 2: Typo in text field
+Row 1700, Column 'watchlisted_rating': Original='0.0970969070706918' -> New='nan', Error Type 3: Invalid decimal format
+Row 1301, Column 'vote_average': Original='7.111' -> New='-5.0', Error Type 3: Invalid decimal format
+Row 635, Column 'networks': Original='['Nickelodeon']' -> New='['Nickelzdeon']', Error Type 2: Typo in text field
+Row 1693, Column 'vote_average': Original='8.237' -> New='nan', Error Type 3: Invalid decimal format
+Row 1288, Column 'first_air_date': Original='2019-07-28' -> New='0000-00-00', Error Type 4: Invalid date format
+Row 7, Column 'number_of_episodes': Original='62' -> New='-1', Error Type 1: Numerical field error
+Row 454, Column 'first_air_date': Original='2005-09-22' -> New='32/13/2021', Error Type 4: Invalid date format
+Row 557, Column 'overview': Original='Story of love between Marimar and Sergio. Sergio is from a wealthy family, and Marimar lives with her poor grandparents in a hut in front of the ocean.' -> New='Story of love between Marimar and Sergio. Sergio is from a wealthy family, and Marimar lipes with her poor grandparents in a hut in front of the ocean.', Error Type 2: Typo in text field
+Row 1689, Column 'vote_average': Original='7.528' -> New='-5.0', Error Type 3: Invalid decimal format
+Row 876, Column 'networks': Original='['Netflix']' -> New='[uNetflix']', Error Type 2: Typo in text field
+Row 1413, Column 'number_of_episodes': Original='24' -> New='-1', Error Type 1: Numerical field error
+Row 187, Column 'networks': Original='['Disney+']' -> New='['Dioney+']', Error Type 2: Typo in text field
+Row 1716, Column 'last_air_date': Original='2001-03-31' -> New='32/13/2021', Error Type 4: Invalid date format
+Row 610, Column 'last_air_date': Original='2017-06-24' -> New='0000-00-00', Error Type 4: Invalid date format
+Row 706, Column 'vote_count': Original='602' -> New='9999', Error Type 1: Numerical field error
+Row 107, Column 'networks': Original='['MBS', 'TBS', 'CBC', 'Tulip Television', 'SBC', 'BSN', 'tys', 'HBC', 'RKK Kumamoto Broadcasting', 'Nagasaki Culture Telecasting Corporation', 'i-Television', 'SBS TV', 'IBC Iwate Broadcasting', 'Broadcasting System of San-in', 'Hokuriku Broadcasting', 'Oita Broadcasting System', 'TV-U Fukushima', 'RSK', 'TV-U Yamagata', 'Tohoku Broadcasting', 'RKB', 'TV Kochi Broadcasting', 'Ryukyu Broadcasting', 'TV Yamanashi', 'RCC', 'MRT Miyazaki Broadcasting', 'ATV', 'MBC South Japan Broadcasting']' -> New='['MBS', 'TBS', 'CBC', 'Tulip Television', 'SBC', 'BSN', 'tys', 'HBC', 'RKK Kumamoto Broadcasting', 'Nagasaki Culture Telecasting Corporation', 'i-Television', 'SBS TV', 'IBC Iwate Broadcasting', 'Broadcasting System of San-in', 'Hokuriku Broadcastinn', 'Oita Broadcasting System', 'TV-U Fukushima', 'RSK', 'TV-U Yamagata', 'Tohoku Broadcasting', 'RKB', 'TV Kochi Broadcasting', 'Ryukyu Broadcasting', 'TV Yamanashi', 'RCC', 'MRT Miyazaki Broadcasting', 'ATV', 'MBC South Japan Broadcasting']', Error Type 2: Typo in text field
+Row 710, Column 'popularity': Original='16.732' -> New='nan', Error Type 3: Invalid decimal format
+Row 1937, Column 'languages': Original='['ja']' -> New='['en', 'abc']', Error Type 5: Inconsistent array-like data
+Row 603, Column 'genres': Original='['Comedy', 'Crime', 'Drama']' -> New='['Compdy', 'Crime', 'Drama']', Error Type 2: Typo in text field
+Row 947, Column 'vote_average': Original='7.405' -> New='nan', Error Type 3: Invalid decimal format
+Row 597, Column 'watchlisted_rating': Original='0.2930512655666454' -> New='-5.0', Error Type 3: Invalid decimal format
+Row 325, Column 'overview': Original='Two I.T. nerds and their clueless female manager, who work in the basement of a very successful company. When they are called on for help, they are never treated with any respect at all.' -> New='Two I.T. nerds and their clueless female manager, who work in the basement of a very successful companl. When they are called on for help, they are never treated with any respect at all.', Error Type 2: Typo in text field
+Row 115, Column 'number_of_episodes': Original='218' -> New='-1', Error Type 1: Numerical field error
+Row 26, Column 'popularity': Original='164.275' -> New='-5.0', Error Type 3: Invalid decimal format
+Row 492, Column 'number_of_seasons': Original='5' -> New='-1', Error Type 1: Numerical field error
+Row 165, Column 'watchlisted_rating': Original='0.9024888542123706' -> New='nan', Error Type 3: Invalid decimal format
+Row 584, Column 'number_of_seasons': Original='5' -> New='9999', Error Type 1: Numerical field error
+Row 1351, Column 'overview': Original='After a mysterious disease begins transforming people into vampires, Dr. Luther Swann is pitted against his best friend, now a powerful vampire leader.' -> New='After a mysterious disease begins transforming people into vampires, Dr. Luther Swann is pitted rgainst his best friend, now a powerful vampire leader.', Error Type 2: Typo in text field
+Row 1104, Column 'name': Original='Nikita' -> New='Nikima', Error Type 2: Typo in text field
+Row 1458, Column 'overview': Original='Ten years after the Ceremonial Battle, a teenage boy named Yuuki  Judai heads off in order to join the Duelist Yousei School located on a  remote island off the coast of Japan. There he meets his fellow students  and gains a few friends, along with a few enemies. Judai is put into  the lowest rank of Osiris Red, but he continues to test his skills  against the students and faculty to prove his worth as a Yousei Duelist  and earn the respect of everyone around him.' -> New='Ten years after the Ceremonial Battle, a teenage boy named Yuuki  Judai heads off in order to join the Duelist Yousei School located on a  remote island off the coast of Japan. There he meets his fellow students  and gains a iew friends, along with a few enemies. Judai is put into  the lowest rank of Osiris Red, but he continues to test his skills  against the students and faculty to prove his worth as a Yousei Duelist  and earn the respect of everyone around him.', Error Type 2: Typo in text field
+Row 110, Column 'id': Original='111' -> New='9999', Error Type 1: Numerical field error
+Row 309, Column 'name': Original='Sweet Tooth' -> New='Sweet Tooyh', Error Type 2: Typo in text field
+Row 1370, Column 'id': Original='1394' -> New='9999', Error Type 1: Numerical field error
+Row 45, Column 'networks': Original='['tv asahi', 'MBS', 'TV Tokyo', 'TBS', 'CBC', 'TV Aichi', 'TVQ', 'TV Osaka', 'Tulip Television', 'TVh', 'SBC', 'TSC', 'BSN', 'tys', 'Nagasaki Broadcasting Company', 'HBC', 'RKK Kumamoto Broadcasting', 'i-Television', 'SBS TV', 'IBC Iwate Broadcasting', 'Broadcasting System of San-in', 'Hokuriku Broadcasting', 'Oita Broadcasting System', 'TV-U Fukushima', 'RSK', 'TV-U Yamagata', 'Tohoku Broadcasting', 'RKB', 'TV Kochi Broadcasting', 'Ryukyu Broadcasting', 'TV Yamanashi', 'RCC', 'MRT Miyazaki Broadcasting', 'ATV', 'MBC South Japan Broadcasting']' -> New='['tv asahi', 'MBS', 'TV Tokyo', 'TBS', 'CBC', 'TV Aichi', 'TVQ', 'TV Osaka', 'Tulip Television', 'TVh', 'SBC', 'TSC', 'BSN', 'tys', 'Nagasaki Broadcasting Company', 'HBC', 'RKK Kumamoto Broadcasting', 'i-Television', 'SBS TV', 'IBC Iwate Broadcasting', 'Broadcasting System of San-in', 'Hokuriku Broadcasting', 'Oita Broadcasting System', 'TV-U Fukushima', 'RSK', 'TV-U Yamagata', 'Tohoku Broadcasting', 'RKB', 'TV Kochi Broadcasting', 'Ryukeu Broadcasting', 'TV Yamanashi', 'RCC', 'MRT Miyazaki Broadcasting', 'ATV', 'MBC South Japan Broadcasting']', Error Type 2: Typo in text field
+Row 550, Column 'overview': Original='A chilling anthology series featuring stories of people in terrifying situations inspired by true historical events.' -> New='A chilling anthology series featuring stories of people in terrifying situations inspired by true historickl events.', Error Type 2: Typo in text field
+Row 1426, Column 'first_air_date': Original='2021-01-10' -> New='0000-00-00', Error Type 4: Invalid date format
+Row 426, Column 'id': Original='429' -> New='9999', Error Type 1: Numerical field error
+Row 849, Column 'watchlisted_rating': Original='0.2220394095943375' -> New='-5.0', Error Type 3: Invalid decimal format
+Row 1459, Column 'number_of_episodes': Original='33' -> New='9999', Error Type 1: Numerical field error
+Row 1112, Column 'languages': Original='['en']' -> New='['??']', Error Type 5: Inconsistent array-like data
+Row 1588, Column 'vote_average': Original='7.622' -> New='-5.0', Error Type 3: Invalid decimal format
+Row 1282, Column 'genres': Original='['Comedy', 'Drama', 'Mystery']' -> New='['Comedy', 'Drbma', 'Mystery']', Error Type 2: Typo in text field
+Row 599, Column 'languages': Original='['en']' -> New='['en', 'abc']', Error Type 5: Inconsistent array-like data
+Row 990, Column 'overview': Original='Set in England in the early 19th century, Pride and Prejudice tells the story of Mr and Mrs Bennet's five unmarried daughters after the rich and eligible Mr Bingley and his status-conscious friend, Mr Darcy, have moved into their neighbourhood. While Bingley takes an immediate liking to the eldest Bennet daughter, Jane, Darcy has difficulty adapting to local society and repeatedly clashes with the second-eldest Bennet daughter, Elizabeth.' -> New='Set in England in the early 19th century, Pride and Prejudice tells the story of Mr and Mrs Bennet's five unmarried daughters after the rich and eligible Mr Bingley and his status-conscious friend, Mr Darcy, have moved into their neighbourhood. While Bingley takes an immediate liking to the eldest Bennet daughter, Jane, Darcy has difficulty adapting to local society and repeatedly clashes with the second-eldest Bennev daughter, Elizabeth.', Error Type 2: Typo in text field
+Row 1260, Column 'number_of_seasons': Original='1' -> New='-1', Error Type 1: Numerical field error
+Row 1733, Column 'id': Original='1764' -> New='9999', Error Type 1: Numerical field error
+Row 1225, Column 'vote_count': Original='315' -> New='-1', Error Type 1: Numerical field error
+Row 1939, Column 'overview': Original='Oozora Haruka, who's just moved to Okinawa, is generally cheerful and optimistic, but there's one thing she feels insecure about: she's taller than most other girls. Her cousin Higa Kanata also has one hang-up: she had to quit her beach volleyball because she was too short. The mismatched cousins find themselves paired up as a beach volleyball team.' -> New='Oozora Haraka, who's just moved to Okinawa, is generally cheerful and optimistic, but there's one thing she feels insecure about: she's taller than most other girls. Her cousin Higa Kanata also has one hang-up: she had to quit her beach volleyball because she was too short. The mismatched cousins find themselves paired up as a beach volleyball team.', Error Type 2: Typo in text field
+Row 1384, Column 'languages': Original='['ja']' -> New='None', Error Type 5: Inconsistent array-like data
+Row 250, Column 'vote_average': Original='7.963' -> New='nan', Error Type 3: Invalid decimal format
+Row 49, Column 'vote_count': Original='4496' -> New='9999', Error Type 1: Numerical field error
+Row 1905, Column 'number_of_seasons': Original='1' -> New='-1', Error Type 1: Numerical field error
+Row 1400, Column 'name': Original='Kid vs. Kat' -> New='Kidpvs. Kat', Error Type 2: Typo in text field
+Row 379, Column 'watchlisted_rating': Original='0.4470612577411246' -> New='nan', Error Type 3: Invalid decimal format
+Row 1350, Column 'last_air_date': Original='2013-08-18' -> New='0000-00-00', Error Type 4: Invalid date format
+Row 1459, Column 'networks': Original='['FOX']' -> New='['vOX']', Error Type 2: Typo in text field
+Row 912, Column 'last_air_date': Original='2007-09-01' -> New='32/13/2021', Error Type 4: Invalid date format
+Row 1449, Column 'last_air_date': Original='2019-01-25' -> New='None', Error Type 4: Invalid date format
+Row 952, Column 'genres': Original='['Reality', 'Action']' -> New='['Reality', 'Acticn']', Error Type 2: Typo in text field
+Row 1518, Column 'vote_count': Original='244' -> New='-1', Error Type 1: Numerical field error
+Row 182, Column 'vote_count': Original='1851' -> New='9999', Error Type 1: Numerical field error
+Row 192, Column 'name': Original='Twin Peaks' -> New='Twin Peays', Error Type 2: Typo in text field
+Row 347, Column 'genres': Original='['Sci-Fi', 'Drama']' -> New='[zSci-Fi', 'Drama']', Error Type 2: Typo in text field
+Row 1886, Column 'languages': Original='['ja']' -> New='None', Error Type 5: Inconsistent array-like data
+Row 1364, Column 'first_air_date': Original='2013-06-03' -> New='0000-00-00', Error Type 4: Invalid date format
+Row 440, Column 'number_of_episodes': Original='52' -> New='-1', Error Type 1: Numerical field error
+Row 1187, Column 'networks': Original='['Syndication']' -> New='['Syndicgtion']', Error Type 2: Typo in text field
+Row 1231, Column 'popularity': Original='9.482' -> New='-5.0', Error Type 3: Invalid decimal format
+Row 1716, Column 'first_air_date': Original='1999-10-02' -> New='0000-00-00', Error Type 4: Invalid date format
+Row 1416, Column 'overview': Original='SilverHawks is an American animated television series developed by Rankin/Bass Productions and distributed by Lorimar-Telepictures in 1986. The animation was provided by Japanese studio Pacific Animation Corporation. In total, 65 episodes were made. It was created as a space-bound equivalent of their previous series, ThunderCats.    As was the case with ThunderCats, there was also a SilverHawks comic book series published by then-Marvel Comics imprint Star Comics.    Currently, Warner Bros. owns the rights to the series.' -> New='SilverHawks is an American animated television series developed by Rankin/Bass Productions and distributed by Lorimar-Telepictures in 1986. The animation was provided by Japanese studio Pacific Animation Corporation. In total, 65 episodes were made. It was created as a space-bound equivalent of their previous series, ThunderCats.    As was the case with ThunderCats, there was also a SilverHawks comic book series published by then-Marvel Comics imprint Stax Comics.    Currently, Warner Bros. owns the rights to the series.', Error Type 2: Typo in text field
+Row 1772, Column 'popularity': Original='217.035' -> New='nan', Error Type 3: Invalid decimal format
+Row 1762, Column 'overview': Original='Charlie is a non-traditional therapist specializing in anger management. He has a successful private practice and he performs pro bono counseling for an inmate group at a state prison. Prior to his career as a therapist, he was a major league baseball player whose career was put on the shelf for good by his own struggle with anger issues.' -> New='Charlie is a non-traditional therapist specializing in anger management. He has a successful private practice and he performs pro bono counseling for an inmate group at a state prison. Prior to his career as a therapist, he was a major league baseball player whose career was put on the shelf for gbod by his own struggle with anger issues.', Error Type 2: Typo in text field
+Row 681, Column 'genres': Original='['Sci-Fi', 'Drama']' -> New='['Sci-Fi'y 'Drama']', Error Type 2: Typo in text field
+Row 1274, Column 'popularity': Original='14.384' -> New='nan', Error Type 3: Invalid decimal format
+Row 1406, Column 'last_air_date': Original='2000-02-12' -> New='0000-00-00', Error Type 4: Invalid date format
+Row 89, Column 'genres': Original='['Action', 'Animation', 'Comedy']' -> New='['Action', 'Animation', 'Cemedy']', Error Type 2: Typo in text field
+Row 123, Column 'number_of_episodes': Original='49' -> New='9999', Error Type 1: Numerical field error
+Row 509, Column 'overview': Original='In this drama set at a university, a wayward philosophy student navigate life on campus while seeking guidance from an intriguing new professor.' -> New='In this drama set at a university, a wayward philosophy student navigate life on campus while seeking guidance from an intriguing newoprofessor.', Error Type 2: Typo in text field
+Row 112, Column 'vote_count': Original='2777' -> New='-1', Error Type 1: Numerical field error
+Row 578, Column 'networks': Original='['BBC One']' -> New='['BBC yne']', Error Type 2: Typo in text field
+Row 198, Column 'first_air_date': Original='2004-01-11' -> New='32/13/2021', Error Type 4: Invalid date format
+Row 1682, Column 'last_air_date': Original='2023-05-11' -> New='None', Error Type 4: Invalid date format
+Row 659, Column 'popularity': Original='16.059' -> New='nan', Error Type 3: Invalid decimal format
+Row 1541, Column 'popularity': Original='6.927' -> New='-5.0', Error Type 3: Invalid decimal format
+Row 218, Column 'name': Original='Boys Over Flowers' -> New='Boys OverfFlowers', Error Type 2: Typo in text field
+Row 772, Column 'last_air_date': Original='1974-12-05' -> New='32/13/2021', Error Type 4: Invalid date format
+Row 830, Column 'name': Original='Lilo & Stitzh: The Series' -> New='Lilo & Stiazh: The Series', Error Type 2: Typo in text field
+Row 842, Column 'languages': Original='['en']' -> New='['en', 'abc']', Error Type 5: Inconsistent array-like data
+Row 481, Column 'languages': Original='['en']' -> New='None', Error Type 5: Inconsistent array-like data
+Row 416, Column 'number_of_episodes': Original='9' -> New='-1', Error Type 1: Numerical field error
+Row 629, Column 'languages': Original='['es']' -> New='['??']', Error Type 5: Inconsistent array-like data
+Row 820, Column 'id': Original='830' -> New='-1', Error Type 1: Numerical field error
+Row 21, Column 'watchlisted_rating': Original='4.052557947652179' -> New='nan', Error Type 3: Invalid decimal format
+Row 1531, Column 'overview': Original='Mochizuki General Hospital boasts some of the most well-trained nurses in town. But though these ladies spend much of their day battling sickness, their after-hours are spent fighting a very different sort of disease... Under the leadership of the hospital chairman, a handful of staff members and local teenagers form a group of mercenary assassins, targeting the "cancers" of society and excising those individuals before their wickedness spreads.' -> New='Mochizuki General Hospital boasts some of the most well-trained nurses in town. But though these ladies spend much of their day battling sickness, their after-hours are spent fighting a very different sort of disease... Under the leadership of the hospital chairman, a handful of staff membxrs and local teenagers form a group of mercenary assassins, targeting the "cancers" of society and excising those individuals before their wickedness spreads.', Error Type 2: Typo in text field
+Row 581, Column 'watchlisted_rating': Original='0.3179023368463685' -> New='-5.0', Error Type 3: Invalid decimal format
+Row 538, Column 'genres': Original='['Sci-Fi', 'Drama', 'Comedy']' -> New='['ScinFi', 'Drama', 'Comedy']', Error Type 2: Typo in text field
+Row 1230, Column 'name': Original='GLOW' -> New='GLnW', Error Type 2: Typo in text field
+Row 748, Column 'name': Original='Doraemon' -> New='Dorazmon', Error Type 2: Typo in text field
+Row 956, Column 'genres': Original='['Animation', 'Action', 'Sci-Fi']' -> New='['Animakion', 'Action', 'Sci-Fi']', Error Type 2: Typo in text field
+Row 533, Column 'last_air_date': Original='2004-10-02' -> New='0000-00-00', Error Type 4: Invalid date format
+Row 215, Column 'name': Original='Desperate Housewives' -> New='DesperatemHousewives', Error Type 2: Typo in text field
+Row 966, Column 'vote_count': Original='414' -> New='-1', Error Type 1: Numerical field error
+Row 1528, Column 'name': Original='Inuyashiki: Last Hero' -> New='snuyashiki: Last Hero', Error Type 2: Typo in text field
+Row 1370, Column 'languages': Original='['es']' -> New='None', Error Type 5: Inconsistent array-like data
+Row 1925, Column 'first_air_date': Original='2021-04-01' -> New='32/13/2021', Error Type 4: Invalid date format
+Row 984, Column 'vote_average': Original='7.485' -> New='-5.0', Error Type 3: Invalid decimal format
+Row 1420, Column 'vote_average': Original='7.925' -> New='-5.0', Error Type 3: Invalid decimal format
+Row 886, Column 'popularity': Original='10.583' -> New='-5.0', Error Type 3: Invalid decimal format
+Row 1796, Column 'overview': Original='Families, friends, enemies and lovers experience life-changing events in the large upstate New York city of Port Charles, which has a busy hospital, upscale hotel, cozy diner and dangerous waterfront frequented by the criminal underworld.' -> New='Families, friends, enemies and lovers experqence life-changing events in the large upstate New York city of Port Charles, which has a busy hospital, upscale hotel, cozy diner and dangerous waterfront frequented by the criminal underworld.', Error Type 2: Typo in text field
+Row 409, Column 'watchlisted_rating': Original='0.4031519754239823' -> New='nan', Error Type 3: Invalid decimal format
+Row 400, Column 'number_of_seasons': Original='3' -> New='9999', Error Type 1: Numerical field error
+Row 125, Column 'watchlisted_rating': Original='1.0919006104127302' -> New='nan', Error Type 3: Invalid decimal format
+Row 92, Column 'name': Original='Gotham' -> New='Gothym', Error Type 2: Typo in text field
+Row 1051, Column 'networks': Original='['FOX']' -> New='['FtX']', Error Type 2: Typo in text field
+Row 141, Column 'overview': Original='Legendary bounty hunter Boba Fett and mercenary Fennec Shand must navigate the galaxy’s underworld when they return to the sands of Tatooine to stake their claim on the territory once ruled by Jabba the Hutt and his crime syndicate.' -> New='Legendary bounty hunter Boba Fett and mercesary Fennec Shand must navigate the galaxy’s underworld when they return to the sands of Tatooine to stake their claim on the territory once ruled by Jabba the Hutt and his crime syndicate.', Error Type 2: Typo in text field
+Row 1320, Column 'first_air_date': Original='2007-09-26' -> New='32/13/2021', Error Type 4: Invalid date format
+Row 593, Column 'first_air_date': Original='2009-05-19' -> New='None', Error Type 4: Invalid date format
+Row 1529, Column 'id': Original='1557' -> New='9999', Error Type 1: Numerical field error
+Row 1195, Column 'vote_count': Original='326' -> New='-1', Error Type 1: Numerical field error
+Row 1282, Column 'number_of_episodes': Original='66' -> New='9999', Error Type 1: Numerical field error
+Row 1365, Column 'vote_average': Original='7.4' -> New='-5.0', Error Type 3: Invalid decimal format
+Row 911, Column 'languages': Original='['en']' -> New='None', Error Type 5: Inconsistent array-like data
+Row 41, Column 'vote_count': Original='5017' -> New='9999', Error Type 1: Numerical field error
