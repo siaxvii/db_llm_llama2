@@ -6,7 +6,7 @@ def process_csv(input_file, output_file):
     if 'weighted_rating' in df.columns:
         df = df.drop(columns=['weighted_rating'])
 
-    df = df.head(2000)
+    df = df.head(200)
 
     df.to_csv(output_file, index=False)
     print(f"Processed CSV saved to {output_file}")

@@ -72,7 +72,7 @@ if os.path.exists(input_file):
     try:
         df = pd.read_csv(input_file)
 
-        num_errors = 200  #num errors introduced
+        num_errors = 50  #num errors introduced
         dirty_df, error_log = introduce_errors(df, num_errors)
 
         dirty_df.to_csv(output_file, index=False)
