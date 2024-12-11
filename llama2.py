@@ -1,50 +1,38 @@
 import pandas as pd
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 
-# Load the model and tokenizer
 print("skibidi 1")
 tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-2-7b-hf")
 print("skibidi 2")
 model = AutoModelForCausalLM.from_pretrained("meta-llama/Llama-2-7b-hf")
 
-# Set up the text generation pipeline
 print("skibidi 3")
 text_generator = pipeline("text-generation", model=model, tokenizer=tokenizer)
 
-# Function to clean individual entries based on a prompt
 def clean_text(text, prompt):
-    # Combine the prompt with the text you want to clean
     print("skibidi 8")
     full_input = f"{prompt} {text}"
 
-    # Generate cleaned text using the model
     print("skibidi 9")
     generated_text = text_generator(full_input, num_return_sequences=1)[0]['generated_text']
     
-    # For simplicity, return the generated text (You can apply more filtering if needed)
     print("skibidi 10")
     return generated_text.strip()
 
-# Function to clean a CSV file
 def clean_csv(input_csv, output_csv, prompt):
-    # Load the CSV file
     print("skibidi 5")
     df = pd.read_csv(input_csv)
 
-    # Iterate over each column and clean the rows (adjust based on your CSV structure)
     print("skibidi 6")
     print(len(df.columns))
     for column in df.columns:
         print("skibidi 7")
-        # Apply cleaning to each row in the column
         df[column] = df[column].apply(lambda x: clean_text(str(x), prompt))
 
-    # Save the cleaned DataFrame to a new CSV
     print("skibidi 11")
     df.to_csv(output_csv, index=False)
     print(f"Cleaned CSV saved as {output_csv}")
 
-# Example usage
 input_csv = "dirty.csv"
 output_csv = "llama2_cleaned_data.csv" 
 
@@ -67,6 +55,5 @@ Please clean the text by fixing these issues, ensuring that the fields are consi
 Return the cleaned CSV dataset with the errors corrected. 
 """
 
-# Clean the CSV
 print("skibidi 4")
 clean_csv(input_csv, output_csv, prompt)
