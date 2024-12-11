@@ -37,22 +37,15 @@ input_csv = "dirty.csv"
 output_csv = "llama2_cleaned_data.csv" 
 
 prompt = """
-You are given a CSV dataset with errors in the following fields:
+Clean a CSV dataset with the following fields:
 
-1. Numerical fields ('id', 'number_of_seasons', 'number_of_episodes', 'vote_count') may have invalid values like -1 or 9999.
-2. Text fields ('name', 'overview', 'genres', 'networks') may have typos or random characters.
-3. Decimal fields ('vote_average', 'popularity', 'watchlisted_rating') may have invalid formats like None or -5.0.
-4. Date fields ('first_air_date', 'last_air_date') may have invalid dates like '32/13/2021' or '0000-00-00'.
-5. Array-like fields ('languages') may have inconsistent values like ['??'] or ['en', 'abc'].
+1. **Numerical fields** ('id', 'number_of_seasons', 'number_of_episodes', 'vote_count'): Replace invalid values like -1 or 9999 with NaN.
+2. **Text fields** ('name', 'overview', 'genres', 'networks'): Fix typographical errors.
+3. **Decimal fields** ('vote_average', 'popularity', 'watchlisted_rating'): Replace invalid formats (e.g., None, -5.0) with NaN.
+4. **Date fields** ('first_air_date', 'last_air_date'): Fix invalid dates like '32/13/2021' or '0000-00-00', or replace with NaN.
+5. **Array fields** ('languages'): Standardize to valid language codes, replacing invalid values (e.g., ['??'], ['abc']) with 'unknown'.
 
-Please clean the text by fixing these issues, ensuring that the fields are consistent and meaningful:
-- Replace invalid numbers with appropriate values or NaN.
-- Correct any typographical errors in text fields.
-- Ensure decimals are in valid ranges or set them to NaN.
-- Replace invalid dates with valid ones or set them to NaN.
-- Standardize the array-like data in 'languages' to valid language codes or set to 'unknown'.
-
-Return the cleaned CSV dataset with the errors corrected. 
+Return the cleaned CSV with errors corrected. 
 """
 
 print("skibidi 4")
