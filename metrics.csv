@@ -1,0 +1,13 @@
+Accuracy,Precision,Recall,F1 Score,Column
+0.975,0.975,0.975,0.975,id
+0.98,0.98,0.98,0.98,name
+0.0,0.0,0.0,0.0,overview
+0.875,0.875,0.875,0.875,number_of_seasons
+0.835,0.835,0.835,0.835,number_of_episodes
+0.71,0.71,0.71,0.71,first_air_date
+0.71,0.71,0.71,0.71,last_air_date
+0.98,0.98,0.98,0.98,vote_count
+0.99,0.99,0.99,0.99,vote_average
+0.985,0.985,0.985,0.985,popularity
+0.175,0.175,0.175,0.175,backdrop_path
+0.59,0.59,0.59,0.59,watchlisted_rating

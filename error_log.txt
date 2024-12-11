@@ -1,48 +1,44 @@
-Row 126, Column 'vote_count': Original='2425' -> New='9999', Error Type 1: Numerical field error
-Row 42, Column 'number_of_seasons': Original='4' -> New='9999', Error Type 1: Numerical field error
-Row 185, Column 'id': Original='186' -> New='9999', Error Type 1: Numerical field error
-Row 21, Column 'overview': Original='Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.' -> New='Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving gis young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.', Error Type 2: Typo in text field
-Row 19, Column 'popularity': Original='100.711' -> New='nan', Error Type 3: Invalid decimal format
-Row 57, Column 'popularity': Original='61.986' -> New='nan', Error Type 3: Invalid decimal format
-Row 98, Column 'name': Original='Hawkeye' -> New='Hawkese', Error Type 2: Typo in text field
-Row 142, Column 'number_of_seasons': Original='7' -> New='-1', Error Type 1: Numerical field error
-Row 79, Column 'networks': Original='['CBS', 'Paramount+']' -> New='['CBS', 'Pacamount+']', Error Type 2: Typo in text field
-Row 159, Column 'first_air_date': Original='1998-10-07' -> New='32/13/2021', Error Type 4: Invalid date format
-Row 70, Column 'first_air_date': Original='2021-10-12' -> New='None', Error Type 4: Invalid date format
-Row 27, Column 'last_air_date': Original='2004-05-06' -> New='None', Error Type 4: Invalid date format
-Row 1, Column 'name': Original='Money Heist' -> New='Money Heisd', Error Type 2: Typo in text field
-Row 177, Column 'vote_count': Original='1878' -> New='9999', Error Type 1: Numerical field error
-Row 98, Column 'vote_average': Original='7.96' -> New='-5.0', Error Type 3: Invalid decimal format
-Row 49, Column 'overview': Original='In a world where eighty percent of the population has some kind of super-powered Quirk, Izuku was unlucky enough to be born completely normal. But that won't stop him from enrolling in a prestigious hero academy. Now, he'll get his first taste of brutal rivalry from other schools as he braves the cutthroat, no-holds-barred provisional license exam.' -> New='In a world where eighty percent of the population has some kind of super-powered Quirk, Izuku was unlucky enough to be born completely normal. But that won't stop him from enrolling in a prestigious hero academy. Now, he'dl get his first taste of brutal rivalry from other schools as he braves the cutthroat, no-holds-barred provisional license exam.', Error Type 2: Typo in text field
-Row 166, Column 'languages': Original='['es', 'en', 'ja']' -> New='None', Error Type 5: Inconsistent array-like data
-Row 117, Column 'vote_count': Original='2639' -> New='9999', Error Type 1: Numerical field error
-Row 165, Column 'popularity': Original='71.308' -> New='-5.0', Error Type 3: Invalid decimal format
-Row 178, Column 'overview': Original='Based on the bestselling book by Candace Bushnell, Sex and the City tells the story of four best friends, all single and in their late thirties, as they pursue their careers and talk about their sex lives, all while trying to survive the New York social scene. ' -> New='Based on the bestselling book by Candace Bushnell, Sex and thezCity tells the story of four best friends, all single and in their late thirties, as they pursue their careers and talk about their sex lives, all while trying to survive the New York social scene. ', Error Type 2: Typo in text field
-Row 56, Column 'first_air_date': Original='2020-07-15' -> New='32/13/2021', Error Type 4: Invalid date format
-Row 156, Column 'number_of_seasons': Original='2' -> New='-1', Error Type 1: Numerical field error
-Row 24, Column 'overview': Original='After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed a few more dangerous enemies, in the likes of the shinobi organization; Akatsuki.' -> New='After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work. It will not be easy though as he has amassed ahfew more dangerous enemies, in the likes of the shinobi organization; Akatsuki.', Error Type 2: Typo in text field
-Row 134, Column 'languages': Original='['ja']' -> New='['??']', Error Type 5: Inconsistent array-like data
-Row 103, Column 'first_air_date': Original='2003-09-22' -> New='None', Error Type 4: Invalid date format
-Row 37, Column 'vote_count': Original='5376' -> New='9999', Error Type 1: Numerical field error
-Row 100, Column 'popularity': Original='605.277' -> New='nan', Error Type 3: Invalid decimal format
-Row 42, Column 'name': Original='Westworld' -> New='Weftworld', Error Type 2: Typo in text field
-Row 121, Column 'watchlisted_rating': Original='1.161404961328344' -> New='nan', Error Type 3: Invalid decimal format
-Row 98, Column 'number_of_seasons': Original='1' -> New='9999', Error Type 1: Numerical field error
-Row 123, Column 'name': Original='Titans' -> New='Txtans', Error Type 2: Typo in text field
-Row 16, Column 'last_air_date': Original='2022-02-27' -> New='32/13/2021', Error Type 4: Invalid date format
-Row 134, Column 'networks': Original='['TV Tokyo']' -> New='['TV Tokfo']', Error Type 2: Typo in text field
-Row 159, Column 'genres': Original='['Comedy', 'Drama', 'Mystery', 'Sci-Fi']' -> New='['Comedy', 'Drama', 'Mysthry', 'Sci-Fi']', Error Type 2: Typo in text field
-Row 55, Column 'overview': Original='Normal high school kids by day, protectors of Paris by night! Miraculous follows the heroic adventures of Marinette and Adrien as they transform into Ladybug and Cat Noir and set out to capture akumas, creatures responsible for turning the people of Paris into villains. But neither hero knows the other’s true identity – or that they’re classmates!' -> New='Normal high school kids by day, protectors of Paris by night! Miraculous followg the heroic adventures of Marinette and Adrien as they transform into Ladybug and Cat Noir and set out to capture akumas, creatures responsible for turning the people of Paris into villains. But neither hero knows the other’s true identity – or that they’re classmates!', Error Type 2: Typo in text field
-Row 0, Column 'languages': Original='['en']' -> New='['??']', Error Type 5: Inconsistent array-like data
-Row 165, Column 'languages': Original='['en']' -> New='None', Error Type 5: Inconsistent array-like data
-Row 131, Column 'number_of_episodes': Original='8' -> New='-1', Error Type 1: Numerical field error
-Row 149, Column 'overview': Original='Explore the high-pressure experiences of police officers, paramedics and firefighters who are thrust into the most frightening, shocking and heart-stopping situations. These emergency responders must try to balance saving those who are at their most vulnerable with solving the problems in their own lives.' -> New='Explore the high-pressbre experiences of police officers, paramedics and firefighters who are thrust into the most frightening, shocking and heart-stopping situations. These emergency responders must try to balance saving those who are at their most vulnerable with solving the problems in their own lives.', Error Type 2: Typo in text field
-Row 105, Column 'vote_average': Original='8.264' -> New='-5.0', Error Type 3: Invalid decimal format
-Row 4, Column 'overview': Original='Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.' -> New='Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from theounderworld, the greater the threat that the worst of humanity could escape.', Error Type 2: Typo in text field
-Row 7, Column 'vote_average': Original='8.89' -> New='nan', Error Type 3: Invalid decimal format
-Row 39, Column 'id': Original='40' -> New='-1', Error Type 1: Numerical field error
-Row 13, Column 'popularity': Original='1647.218' -> New='-5.0', Error Type 3: Invalid decimal format
-Row 193, Column 'last_air_date': Original='2023-01-16' -> New='32/13/2021', Error Type 4: Invalid date format
-Row 110, Column 'watchlisted_rating': Original='1.2544134600561074' -> New='nan', Error Type 3: Invalid decimal format
-Row 79, Column 'last_air_date': Original='2023-02-09' -> New='None', Error Type 4: Invalid date format
-Row 192, Column 'first_air_date': Original='1990-04-08' -> New='0000-00-00', Error Type 4: Invalid date format
+Row 113, Column 'vote_count': Original='2769' -> New='9999', Error Type 1: Numerical field error
+Row 159, Column 'number_of_seasons': Original='8' -> New='-1', Error Type 1: Numerical field error
+Row 97, Column 'id': Original='98' -> New='9999', Error Type 1: Numerical field error
+Row 8, Column 'number_of_seasons': Original='6' -> New='-1', Error Type 1: Numerical field error
+Row 152, Column 'overview': Original='When heroes alone are not enough ... the world needs legends. Having seen the future, one he will desperately try to prevent from happening, time-traveling rogue Rip Hunter is tasked with assembling a disparate group of both heroes and villains to confront an unstoppable threat — one in which not only is the planet at stake, but all of time itself. Can this ragtag team defeat an immortal threat unlike anything they have ever known?' -> New='When heroes alone are not enough ... the world needs legends. Having seen the future, one he will desperately try to prevent from happening, time-traveling rogue Rip Hunter is tasked with assembling a disparate group of both heroes and villains to confront an unstoppable threat — one in which not only is the planet at stake, but all of time itself. Can this ragtag team defeat an immortar threat unlike anything they have ever known?', Error Type 2: Typo in text field
+Row 135, Column 'overview': Original='The story of New Jersey-based Italian-American mobster Tony Soprano and the difficulties he faces as he tries to balance the conflicting requirements of his home life and the criminal organization he heads. Those difficulties are often highlighted through his ongoing professional relationship with psychiatrist Jennifer Melfi. The show features Tony's family members and Mafia associates in prominent roles and story arcs, most notably his wife Carmela and his cousin and protégé Christopher Moltisanti.' -> New='The story of New Jersey-based Italian-American mobster Tony Soprano and the difficulties he faces as he tries to balance the conflicting requirements of his home life and the criminal organization he heads. Those difficulties are often highlighted through his ongoing professional relationship with psychiatrist Jennifer Melfi. The show features Tony's family members and Mafia associates in prominent roles and story arcs, most notably his wife Carmela and his cousin and protégé Christopzer Moltisanti.', Error Type 2: Typo in text field
+Row 195, Column 'watchlisted_rating': Original='0.8115010929574249' -> New='nan', Error Type 3: Invalid decimal format
+Row 88, Column 'overview': Original='Agent Phil Coulson of S.H.I.E.L.D. (Strategic Homeland Intervention, Enforcement and Logistics Division) puts together a team of agents to investigate the new, the strange and the unknown around the globe, protecting the ordinary from the extraordinary.' -> New='Agent Phil Coulson of S.H.I.E.L.D. (Strategic Homeland Intervention, Enforcement and LogisticseDivision) puts together a team of agents to investigate the new, the strange and the unknown around the globe, protecting the ordinary from the extraordinary.', Error Type 2: Typo in text field
+Row 154, Column 'name': Original='The Pacific' -> New='Tce Pacific', Error Type 2: Typo in text field
+Row 162, Column 'watchlisted_rating': Original='0.8863951971764694' -> New='nan', Error Type 3: Invalid decimal format
+Row 193, Column 'id': Original='194' -> New='-1', Error Type 1: Numerical field error
+Row 50, Column 'last_air_date': Original='2019-09-25' -> New='None', Error Type 4: Invalid date format
+Row 80, Column 'last_air_date': Original='2022-10-23' -> New='0000-00-00', Error Type 4: Invalid date format
+Row 9, Column 'number_of_seasons': Original='1' -> New='9999', Error Type 1: Numerical field error
+Row 156, Column 'first_air_date': Original='2017-10-13' -> New='0000-00-00', Error Type 4: Invalid date format
+Row 114, Column 'name': Original='SpongeBob SquarePants' -> New='Spongefob SquarePants', Error Type 2: Typo in text field
+Row 17, Column 'vote_count': Original='8891' -> New='-1', Error Type 1: Numerical field error
+Row 108, Column 'name': Original='Dragon Ball' -> New='DragonmBall', Error Type 2: Typo in text field
+Row 164, Column 'number_of_episodes': Original='457' -> New='-1', Error Type 1: Numerical field error
+Row 121, Column 'popularity': Original='300.167' -> New='nan', Error Type 3: Invalid decimal format
+Row 38, Column 'number_of_seasons': Original='12' -> New='-1', Error Type 1: Numerical field error
+Row 192, Column 'id': Original='193' -> New='9999', Error Type 1: Numerical field error
+Row 135, Column 'popularity': Original='156.471' -> New='nan', Error Type 3: Invalid decimal format
+Row 162, Column 'vote_count': Original='2056' -> New='-1', Error Type 1: Numerical field error
+Row 73, Column 'name': Original='What If...?' -> New='What lf...?', Error Type 2: Typo in text field
+Row 165, Column 'number_of_seasons': Original='3' -> New='9999', Error Type 1: Numerical field error
+Row 99, Column 'number_of_seasons': Original='6' -> New='-1', Error Type 1: Numerical field error
+Row 192, Column 'watchlisted_rating': Original='0.7979558218424281' -> New='-5.0', Error Type 3: Invalid decimal format
+Row 9, Column 'overview': Original='Wanda Maximoff and Vision—two super-powered beings living idealized suburban lives—begin to suspect that everything is not as it seems.' -> New='Wanda Maximoff and Vision—two super-powerem beings living idealized suburban lives—begin to suspect that everything is not as it seems.', Error Type 2: Typo in text field
+Row 189, Column 'watchlisted_rating': Original='0.800760932362612' -> New='-5.0', Error Type 3: Invalid decimal format
+Row 149, Column 'id': Original='150' -> New='9999', Error Type 1: Numerical field error
+Row 1, Column 'overview': Original='To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.' -> New='To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find ouj whether their suicide wager will lead to everything or nothing.', Error Type 2: Typo in text field
+Row 8, Column 'first_air_date': Original='2017-09-25' -> New='None', Error Type 4: Invalid date format
+Row 9, Column 'watchlisted_rating': Original='5.08660474558213' -> New='nan', Error Type 3: Invalid decimal format
+Row 131, Column 'number_of_episodes': Original='8' -> New='9999', Error Type 1: Numerical field error
+Row 44, Column 'id': Original='45' -> New='9999', Error Type 1: Numerical field error
+Row 70, Column 'vote_count': Original='3724' -> New='-1', Error Type 1: Numerical field error
+Row 150, Column 'vote_average': Original='8.2' -> New='nan', Error Type 3: Invalid decimal format
+Row 12, Column 'overview': Original='After stealing the Tesseract during the events of “Avengers: Endgame,” an alternate version of Loki is brought to the mysterious Time Variance Authority, a bureaucratic organization that exists outside of time and space and monitors the timeline. They give Loki a choice: face being erased from existence due to being a “time variant” or help fix the timeline and stop a greater threat.' -> New='After stealing the Tesseract during the events of “Avengers: Endgame,” an alternate versionnof Loki is brought to the mysterious Time Variance Authority, a bureaucratic organization that exists outside of time and space and monitors the timeline. They give Loki a choice: face being erased from existence due to being a “time variant” or help fix the timeline and stop a greater threat.', Error Type 2: Typo in text field
+Row 197, Column 'watchlisted_rating': Original='0.7595024114715543' -> New='-5.0', Error Type 3: Invalid decimal format
+Row 158, Column 'popularity': Original='79.344' -> New='-5.0', Error Type 3: Invalid decimal format
+Row 68, Column 'last_air_date': Original='2017-09-24' -> New='None', Error Type 4: Invalid date format
+Row 188, Column 'number_of_episodes': Original='16' -> New='-1', Error Type 1: Numerical field error
+Row 30, Column 'vote_average': Original='8.086' -> New='-5.0', Error Type 3: Invalid decimal format
