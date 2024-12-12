@@ -42,7 +42,7 @@ instruction_only_prompts = {
     "number_of_episodes": "You will be given a list of numbers representing episodes. Replace any invalid or unrealistic numbers (e.g., -1, 9999) with NaN.\n\n{input_text}\n\nOutput only the corrected numbers as a list, one per line.",
     "first_air_date": "You will be given a list of dates. Ensure all dates are in the format YYYY-MM-DD. Replace invalid dates (e.g., 32/13/2021) with NaN.\n\n{input_text}\n\nOutput only the corrected dates as a list, one per line.",
     "last_air_date": "You will be given a list of dates. Ensure all dates are in the format YYYY-MM-DD. Replace invalid dates (e.g., 0000-00-00) with NaN.\n\n{input_text}\n\nOutput only the corrected dates as a list, one per line.",
-    "vote_count": "You will be given a list of vote counts. Replace invalid values (e.g., -1, non-numeric values) with NaN.\n\n{input_text}\n\nOutput only the corrected counts as a list, one per line.",
+    "vote_count": "You will be given a list of vote counts. Replace invalid values (e.g., -1, 9999, non-numeric values) with NaN.\n\n{input_text}\n\nOutput only the corrected counts as a list, one per line.",
     "vote_average": "You will be given a list of vote averages. Replace invalid values (e.g., -5.0, out-of-range values) with NaN.\n\n{input_text}\n\nOutput only the corrected averages as a list, one per line.",
     "popularity": "You are given a list of popularity scores. Replace invalid values (e.g., -1, None) with NaN. \n\n{input_text}\n\n Return one score per line.",
     "backdrop_path": "You are given a list of image paths. Ensure paths are valid and correct any typographical errors. \n\n{input_text}\n\n Return one path per line.",

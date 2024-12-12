@@ -1,9 +1,9 @@
 Accuracy,Precision,Recall,F1 Score,Column
 0.975,0.975,0.975,0.975,id
 0.98,0.98,0.98,0.98,name
-0.0,0.0,0.0,0.0,overview
-0.875,0.875,0.875,0.875,number_of_seasons
-0.835,0.835,0.835,0.835,number_of_episodes
+0.04,0.04,0.04,0.04,overview
+0.88,0.88,0.88,0.88,number_of_seasons
+0.84,0.84,0.84,0.84,number_of_episodes
 0.71,0.71,0.71,0.71,first_air_date
 0.71,0.71,0.71,0.71,last_air_date
 0.98,0.98,0.98,0.98,vote_count
